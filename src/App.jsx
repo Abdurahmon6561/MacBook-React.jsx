@@ -5,7 +5,7 @@ import { Environment, ScrollControls } from "@react-three/drei";
 const App = () => {
   return (
     <div className="w-full h-screen bg-black">
-      <div className="absolute top-[110px] left-1/2 -translate-x-1/2  text-white">
+      <div className="absolute top-2 left-1/2 -translate-x-1/2  text-white">
         <h2 className="text-7xl tracking-tighter font-bold ">macbook pro</h2>
       </div>
       <Canvas camera={{ fov: 12, position: [0, -10, 220] }}>
