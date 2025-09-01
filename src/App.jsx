@@ -14,7 +14,7 @@ const App = () => {
             "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/brown_photostudio_02_4k.exr"
           }
         />
-        <ScrollControls pages={3}>
+        <ScrollControls pages={2}>
           <MacContainer />
         </ScrollControls>
       </Canvas>
